@@ -1,0 +1,28 @@
+
+.hotsp{
+    margin-top: 5%;
+    padding-top: 5px;
+    text-align: center;
+    width: 100%;
+    height: 30% ;
+    border: 1px solid black;
+    overflow: hidden;
+    overflow-x: auto;
+}
+.ul-hotsp{
+    border: 1px solid aqua;
+    
+    display: inline-flex;
+    
+    list-style: none;
+}
+
+li{
+    margin: 5px;
+    border: 1px solid crimson;
+    width: 25%;
+    height: 95%;
+}
+a{
+    text-decoration: none;
+}
